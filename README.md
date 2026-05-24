@@ -328,3 +328,11 @@ everything stops immediately
 red light blinks
 reset is required
 ```
+
+## Full System Demo
+
+<video src="video.mp4" controls width="100%">
+  Your browser does not support embedded videos.
+</video>
+
+[View or download the full system demo video](video.mp4)
